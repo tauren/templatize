@@ -1,0 +1,36 @@
+{
+  "name": "templatize",
+  "description": "Super simple templatizer, converts HTML into a Javascript function.",
+  "version": "0.1.0",
+  "keywords": [
+    "html",
+    "template"
+  ],
+  "url": "http://github.com/tauren/templatize",
+  "maintainers": [
+    {
+      "name": "Tauren Mills",
+      "email": "tauren@groovee.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/tauren/templatize/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tauren/templatize"
+  },
+  "engines": {
+    "node": ">=0.4.8"
+  },
+  "bugs": {
+    "url": "https://github.com/tauren/templatize/issues"
+  },
+  "main": "lib/templatize",
+  "dependencies": {
+    "html-minifier": "~0.5.4"
+  }
+}
