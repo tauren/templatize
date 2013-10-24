@@ -1,7 +1,7 @@
 {
   "name": "templatize",
   "description": "Super simple templatizer, converts HTML into a Javascript function.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "keywords": [
     "html",
     "template"
